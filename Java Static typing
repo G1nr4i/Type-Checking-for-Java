@@ -1,3 +1,10 @@
-this is the code for the static typing
+public class Main {
+    public static void main(String[] args) {
+        int number = "10"; // Error: incompatible types
+        System.out.println(number);
+    }
+}
+
+this is the link for the static typing
 
 https://onlinegdb.com/XaZrPmhFA
